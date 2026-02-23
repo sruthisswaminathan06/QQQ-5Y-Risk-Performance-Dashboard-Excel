@@ -20,7 +20,7 @@ Designed to showcase core finance analytics skills: returns, compounding, drawdo
 ## 🖼️ Dashboard Preview
 > Add your screenshots to the repo and update the paths below.
 
-- Main Dashboard: `Dashboard.png`
+- Main Dashboard: ![image alt].(Dashboard.png
 - Equity Curve: `screenshots/equity_curve.png`
 - Drawdown: `screenshots/drawdown.png`
 - Rolling Volatility: `screenshots/rolling_vol.png`
