@@ -12,7 +12,7 @@ Designed to showcase core finance analytics skills: returns, compounding, drawdo
 - **Sharpe Ratio: 0.43** *(based on chosen risk-free rate assumption)*
 - **Max Drawdown: -36%**
 
-**What this tells us (in plain English):**
+**What this tells us :**
 - QQQ delivered strong growth over 5 years (**14% CAGR**) but with meaningful risk (**23% vol**) and substantial downside during stress periods (**-36% max drawdown**).
 
 ---
@@ -20,9 +20,9 @@ Designed to showcase core finance analytics skills: returns, compounding, drawdo
 ## 🖼️ Dashboard Preview
 
 - Main Dashboard: ![image alt](https://github.com/sruthisswaminathan06/QQQ-5Y-Risk-Performance-Dashboard-Excel/blob/e0ebaf8ed1f5e28e9989a0dbece4e5da6a06884f/Dashboard.png)
-- Equity Curve: `screenshots/equity_curve.png
-- Drawdown: `screenshots/drawdown.png`
-- Rolling Volatility: `screenshots/rolling_vol.png`
+- Equity Curve:  ![image alt](https://github.com/sruthisswaminathan06/QQQ-5Y-Risk-Performance-Dashboard-Excel/blob/0f6fcedf1413e39f2c7a2a9040c681c93c15345a/Equity%20Curve.png)
+- Drawdown:  ![image alt](https://github.com/sruthisswaminathan06/QQQ-5Y-Risk-Performance-Dashboard-Excel/blob/0f6fcedf1413e39f2c7a2a9040c681c93c15345a/Drawdown.png)
+- Rolling Volatility:  ![image alt](https://github.com/sruthisswaminathan06/QQQ-5Y-Risk-Performance-Dashboard-Excel/blob/0f6fcedf1413e39f2c7a2a9040c681c93c15345a/Rolling%2020D%20Vol.png)
 
 ---
 
@@ -35,14 +35,14 @@ Build a simple, recruiter-ready dashboard that answers:
 ---
 
 ## 📊 Data Source
-- **QQQ daily historical prices** downloaded from Nasdaq (Historical Data page). [1](https://excel-tutorial.com/add-slicer-with-excel-online/)
+- **QQQ daily historical prices** downloaded from Nasdaq (Historical Data page).
 
 ---
 
 ## 🧰 Tools & Compatibility
-- **Microsoft Excel (web/free compatible)**
+- **Microsoft Excel**
 - Formulas + charts only (no VBA/macros)  
-  - Note: **Excel for the web does not support creating/running/editing VBA macros**, so this project intentionally avoids macros for maximum portability. [2](blob:https://www.microsoft365.com/a3ed745e-59d4-42c2-93ae-e91fc1a599fa)
+  - Note: **Excel for the web does not support creating/running/editing VBA macros**, so this project intentionally avoids macros for maximum portability. 
 
 ---
 
@@ -80,14 +80,3 @@ These three visuals cover performance, downside risk, and changing risk regimes.
 
 ---
 
-## 📂 Repository Structure
-```text
-QQQ-5Y-Risk-Performance-Dashboard-Excel/
-  QQQ_5Y_Risk_Performance_Dashboard.xlsx
-  QQQ_1Page_Memo.pdf
-  screenshots/
-    dashboard.png
-    equity_curve.png
-    drawdown.png
-    rolling_vol.png
-  README.md
