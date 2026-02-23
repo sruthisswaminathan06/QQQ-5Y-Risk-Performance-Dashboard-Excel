@@ -18,9 +18,8 @@ Designed to showcase core finance analytics skills: returns, compounding, drawdo
 ---
 
 ## 🖼️ Dashboard Preview
-> Add your screenshots to the repo and update the paths below.
 
-- Main Dashboard: ![image alt](https://github.com/sruthisswaminathan06/QQQ-5Y-Risk-Performance-Dashboard-Excel/blob/c46fb56e0e8fab0d893356555c116e2c224861aa/Dashboard.png)
+- Main Dashboard: ![image alt](https://github.com/sruthisswaminathan06/QQQ-5Y-Risk-Performance-Dashboard-Excel/blob/e0ebaf8ed1f5e28e9989a0dbece4e5da6a06884f/Dashboard.png)
 - Equity Curve: `screenshots/equity_curve.png
 - Drawdown: `screenshots/drawdown.png`
 - Rolling Volatility: `screenshots/rolling_vol.png`
